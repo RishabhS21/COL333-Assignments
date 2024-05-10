@@ -4,6 +4,6 @@ The code in this repository is relevant to the assignments for the course COL333
 
 ## List of Assignments
 
-- A1: Sports Complex Planning. This assignment utilizes the Local Search: Hill Climbing with Random Walk & Random Restart algorithm.
-- A3: Hidden Organizations Finder. The problem in this assignment is formulated and solved as a SAT problem.
-- A4: Medical Diagnosis. The problem is solved using Bayesian Networks.
+- [A1: Sports Complex Planning.](A1/) This assignment utilizes the Local Search: Hill Climbing with Random Walk & Random Restart algorithm.
+- [A3: Hidden Organizations Finder.](A3/) The problem in this assignment is formulated and solved as a SAT problem.
+- [A4: Medical Diagnosis.](A4/) The problem is solved using Bayesian Networks.
